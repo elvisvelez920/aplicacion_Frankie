@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "236018409371",
+    "project_id": "frankie-elvis-app-55dc0",
+    "storage_bucket": "frankie-elvis-app-55dc0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236018409371:android:bb84be55c399721ce1cb3e",
+        "android_client_info": {
+          "package_name": "com.example.frankie_aplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx5jp7XMO23zEnV13VDZBpUj_iMDcw3CA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
